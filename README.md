@@ -1,7 +1,4 @@
-# HackHayward
-Below is a sample **`README.md`** file you can place in your GitHub repository alongside your `app.py` (and any other relevant files). It outlines the project goals, dependencies, setup, and usage instructions for your hackathon demo. Feel free to modify it to reflect your actual integration details, credits, or license information.
 
----
 
 # DeepFake Detection with Groq & Prepexitiy
 
